@@ -1,0 +1,13 @@
+/[Ll]ibrary/
+/[Tt]emp/
+/[Oo]bj/
+/[Bb]uild/
+/[Bb]uilds/
+/Assets/AssetStoreTools*
+/.vs/
+
+!/Assets/StreamingAssets/.gitkeep
+/ProjectSettings/ProjectVersion.txt
+/Packages/*
+/UnityPackageManager/*
+*.log
