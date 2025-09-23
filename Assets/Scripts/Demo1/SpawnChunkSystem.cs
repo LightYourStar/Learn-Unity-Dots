@@ -20,6 +20,11 @@ public partial class SpawnChunkSystem : SystemBase
 
     protected override void OnCreate()
     {
+        if (UnityEngine.SceneManagement.SceneManager.GetActiveScene().name != "Demo1_Static")
+        {
+            Enabled = false;
+        }
+
         var em = World.DefaultGameObjectInjectionWorld.EntityManager;
 
         // Archetype：初始就要有 LocalTransform，否则 JobEntity 不能跑
