@@ -1,1 +1,2 @@
-Demo1  生成百万个静态Go <img width="1816" height="1084" alt="image" src="https://github.com/user-attachments/assets/75c74a3e-278e-4e02-9abb-9aeda507a7a1" />
+Demo1  生成十万个静态Entity
+<img width="1808" height="1069" alt="image" src="https://github.com/user-attachments/assets/01ea97ef-196d-4127-b84d-bbc36bb54919" />
